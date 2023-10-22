@@ -108,5 +108,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "0004",
+    "type": "taco",
+    "name": "Mutton Taco",
+    "price": 4.99,
+    "ingredients": {
+      "protein": {
+        "name": "Mutton",
+        "preparation": "Battered and Fried"
+      },
+      "salsa": {
+        "name": "Cagore Mayo",
+        "spiciness": "Mild"
+      },
+      "toppings": [
+        {
+          "name": "Cabbage Slaw",
+          "quantity": "1/2 cup",
+          "ingredients": [
+            "Shredded Cabbage",
+            "Carrot",
+            "Mayonnaise",
+            "Lime Juice",
+            "Salt"
+          ]
+        },
+        {
+          "name": "Pico de Gallo",
+          "quantity": "1/2 cup",
+          "ingredients": ["Tomato", "Onion", "Cilantro", "Lime Juice", "Salt"]
+        },
+        {
+          "name": "Lime Crema",
+          "quantity": "2 tablespoons",
+          "ingredients": ["Sour Cream", "Lime Juice", "Salt"]
+        }
+      ]
+    }
   }
 ]
